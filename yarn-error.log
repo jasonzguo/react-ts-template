@@ -1,0 +1,81 @@
+Arguments: 
+  C:\node\node.exe C:\Users\JiaZheng\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add --dev webpack-merge
+
+PATH: 
+  C:\Users\JiaZheng\bin;C:\Git\mingw64\bin;C:\Git\usr\local\bin;C:\Git\usr\bin;C:\Git\usr\bin;C:\Git\mingw64\bin;C:\Git\usr\bin;C:\Users\JiaZheng\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Microsoft\Web Platform Installer;C:\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Heroku\ruby-1.9.3\bin;C:\Program Files (x86)\Sudowin\Clients\Console;C:\postgreSql\bin\psql.exe;C:\Program Files (x86)\newCommandForBash;C:\Program Files (x86)\newCommandForBash\postgreSQLBin;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WindowsSDK\Windows Performance Toolkit;C:\GtkSharp\2.12\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Microsoft SDKs\F#\3.1\Framework\v4.0;C:\TDM-GCC-64\bin;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\postgreSql\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;C:\Program Files (x86)\MySQL\MySQL Utilities 1.3.6;C:\Gradle\gradle-3.2.1\bin;C:\Git\cmd;C:\Program Files\dotnet;C:\Users\JiaZheng\AppData\Roaming\npm;C:\Program Files (x86)\Yarn\bin;C:\node;C:\Program Files\Go\bin;C:\Python37\Scripts;C:\Python37;C:\Users\JiaZheng\Downloads\templating-rel-vs2017-post-rtw\dev;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Haskell\bin;C:\Haskell\2014.2.0.0\lib\extralibs\bin;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Microsoft\Web Platform Installer;C:\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\Heroku\ruby-1.9.3\bin;C:\Program Files (x86)\Sudowin\Clients\Console;C:\postgreSql\bin\psql.exe;C:\Program Files (x86)\newCommandForBash;C:\Users\JiaZheng\AppData\Local\atom\app-1.0.2;C:\Program Files (x86)\newCommandForBash\postgreSQLBin;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WindowsSDK\Windows Performance Toolkit;C:\GtkSharp\2.12\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Microsoft SDKs\F#\3.1\Framework\v4.0;C:\TDM-GCC-64\bin;C:\Users\JiaZheng\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\postgreSql\bin;C:\Program Files (x86)\Skype\Phone;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;C:\node;C:\Program Files (x86)\MySQL\MySQL Utilities 1.3.6;C:\Users\JiaZheng\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\JiaZheng\AppData\Local\Yarn\bin;C:\Users\JiaZheng\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\JiaZheng\AppData\Roaming\npm;C:\Users\JiaZheng\go\bin;C:\Git\usr\bin\vendor_perl;C:\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.16.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\JiaZheng\Desktop\workspace\react-ts-template\package.json: Unexpected token } in JSON at position 1224
+      at JSON.parse (<anonymous>)
+      at C:\Users\JiaZheng\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\JiaZheng\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\JiaZheng\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "typescript-demo",
+    "version": "0.0.1",
+    "description": "A demo using React with Typescript",
+    "main": "index.js",
+    "scripts": {
+      "webpack": "webpack --progress",
+      "start": "webpack serve"
+    },
+    "author": "Jason Guo",
+    "license": "MIT",
+    "devDependencies": {
+      "@babel/core": "^7.14.0",
+      "@babel/plugin-transform-runtime": "^7.13.15",
+      "@babel/preset-env": "^7.14.0",
+      "@babel/preset-react": "^7.13.13",
+      "@babel/preset-typescript": "^7.13.0",
+      "@types/react": "^17.0.4",
+      "@types/react-dom": "^17.0.3",
+      "@types/webpack-env": "^1.16.0",
+      "@typescript-eslint/eslint-plugin": "^4.22.0",
+      "@typescript-eslint/parser": "^4.22.0",
+      "babel-loader": "^8.2.2",
+      "css-loader": "^5.2.4",
+      "eslint": "^7.25.0",
+      "eslint-config-prettier": "^8.3.0",
+      "eslint-plugin-prettier": "^3.4.0",
+      "eslint-plugin-react": "^7.23.2",
+      "fork-ts-checker-webpack-plugin": "^6.2.6",
+      "html-webpack-plugin": "^5.3.1",
+      "prettier": "^2.2.1",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "style-loader": "^2.0.0",
+      "ts-loader": "^9.1.1",
+      "typescript": "^4.2.4",
+      "webpack": "^5.36.2",
+      "webpack-cli": "^4.6.0",
+      "webpack-dev-server": "^3.11.2",
+    },
+    "husky": {
+      "hooks": {
+        "pre-commit": "lint-staged"
+      }
+    },
+    "lint-staged": {
+      "*.{js,ts,tsx}": [
+        "eslint --fix"
+      ]
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
