@@ -1,8 +1,6 @@
 const path = require('path');
 const webpack = require('webpack');
 
-const rootDir = path.join(__dirname, '..');
-
 module.exports = {
   mode: 'development',
 
